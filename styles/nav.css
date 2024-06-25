@@ -12,8 +12,10 @@ nav ul {
   align-items: center;
   gap: 24px; /*colocou espaço entre elementos*/
   padding-block: 8px; /*Deu padding top e bottom (blcok)*/
+  font: var(--text-md);
 }
 nav ul li:last-child img {
   width: 40px;
   height: 40px;
+  align-items: center;
 }
